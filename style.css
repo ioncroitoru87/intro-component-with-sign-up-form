@@ -20,7 +20,11 @@ body {
   max-width: 1440px;
   margin: 0 auto;
 }
-
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .hero {
   margin-top: 121px;
   gap: 45px;
